@@ -4,39 +4,29 @@
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-🔗 [Click here to open ProductivePal](https://luminous-praline-03660f.netlify.app)
-
----
-
-## ⚙️ Features
-
-- ✅ Add study sessions by **subject**, **topic**, and **duration**
-- ✅ Track your **total study time**
-- ✅ Auto-refreshing **daily motivational tips**
-- ✅ Persistent storage using **LocalStorage**
-- ✅ Fully responsive UI (mobile + desktop)
-- ✅ Built 100% in React
+ [Click here to open ProductivePal](https://luminous-praline-03660f.netlify.app)
 
 ---
 
-## 🧑‍💻 Tech Stack
+## Features
 
-- ⚛️ React.js
-- 💾 LocalStorage
-- 🎨 CSS
-- 🌍 Netlify (Deployment)
+-  Add study sessions by **subject**, **topic**, and **duration**
+-  Track your **total study time**
+-  Auto-refreshing **daily motivational tips**
+-  Persistent storage using **LocalStorage**
+-  Fully responsive UI (mobile + desktop)
+-  Built 100% in React
 
 ---
-## 📁 Folder Structure
 
-productivepal/
-├── public/
-├── src/
-│ ├── App.js
-│ ├── index.js
-│ └── components/
-├── package.json
-└── README.md
+ Tech Stack
+
+-  React.js
+-  LocalStorage
+-  CSS
+-  Netlify (Deployment)
+
+---
 
